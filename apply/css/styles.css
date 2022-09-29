@@ -74,6 +74,12 @@ main h3 {
   font-size: 2em;
 
 }
+.id {
+  width: 45%
+  float: left;
+  padding: 1%
+  
+}
 /* style rules for footer content */
 footer {
   text-align: center;
